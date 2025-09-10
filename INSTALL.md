@@ -5,7 +5,7 @@ Quick installation guide for the Nexus CLI with parallel execution support.
 ## 🚀 One-Line Installation
 
 ```bash
-git clone https://github.com/your-username/nexus-cli.git && cd nexus-cli && ./build-parallel.sh --install
+git clone https://github.com/hanzkeren/nexuskeren.git && cd nexus-cli && ./build-parallel.sh --install
 ```
 
 ## 📋 Prerequisites
